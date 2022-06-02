@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<RecipeDef ParentName="GR_HumanoidHybridProsthesisBase">
+		<defName>Jedi515_CraftSpiderLimbs</defName>
+		<label>Human Implant: spider limbs</label>
+		<description>Craft spider limbs, a hybrid implant that assists manipulation and movement. Looks kinda scary tho.</description>
+		<jobString>Crafting Spider Limbs</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>GR_Genoframes</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>GR_HumanoidGenetic</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>GR_InsectoidGenetic</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>GR_Genoframes</li>
+			</categories>
+			<thingDefs>
+				<li>GR_HumanoidGenetic</li>
+				<li>GR_InsectoidGenetic</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<Jedi515_SpiderLimbs>1</Jedi515_SpiderLimbs>
+		</products>
+		<skillRequirements>
+			<Intellectual>5</Intellectual>
+		</skillRequirements>
+	</RecipeDef>
+	
+	<RecipeDef ParentName="GR_HumanoidHybridProsthesisBase">
+		<defName>Jedi515_CraftSpinneret</defName>
+		<label>Human Implant: spinneret</label>
+		<description>Craft spinneret, a hybrid implant that allows your colonists to produce synthread. Unfortunately for them, the process is quite painful.</description>
+		<jobString>Crafting Spinneret</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>GR_Genoframes</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>GR_HumanoidGenetic</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>GR_InsectoidGenetic</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>GR_Genoframes</li>
+			</categories>
+			<thingDefs>
+				<li>GR_HumanoidGenetic</li>
+				<li>GR_InsectoidGenetic</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<Jedi515_Spinneret>1</Jedi515_Spinneret>
+		</products>
+		<skillRequirements>
+			<Intellectual>5</Intellectual>
+		</skillRequirements>
+	</RecipeDef>
+	
+	<RecipeDef ParentName="GR_HumanoidHybridProsthesisBase">
+		<defName>Jedi515_CraftHorsePP</defName>
+		<label>Human Implant: equine "love enhancer"</label>
+		<description>Craft spinneret, a hybrid implant that... Should I really explain what it is?</description>
+		<jobString>Crafting equine "love enhancer"</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>GR_Genoframes</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>GR_HumanoidGenetic</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>GR_EquineGenetic</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>GR_Genoframes</li>
+			</categories>
+			<thingDefs>
+				<li>GR_HumanoidGenetic</li>
+				<li>GR_InsectoidGenetic</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<Jedi515_HorsePP>1</Jedi515_HorsePP>
+		</products>
+		<skillRequirements>
+			<Intellectual>5</Intellectual>
+		</skillRequirements>
+	</RecipeDef>
+</Defs>

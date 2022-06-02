@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingDef ParentName="GR_HumanImplantBase">
+		<defName>Jedi515_SpiderLimbs</defName>
+		<label>human implant: spider limbs</label>
+		<description>Four spider "arms". Not quite usable in combat, but a great help in moving around and handling items.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>4</Mass>
+		</statBases>
+	</ThingDef>
+	<ThingDef ParentName="GR_HumanImplantBase">
+		<defName>Jedi515_Spinneret</defName>
+		<label>human implant: spinneret</label>
+		<description>Spider silk producing organ. On a human. Try not to think where it's coming from.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>4</Mass>
+		</statBases>
+	</ThingDef>
+	<ThingDef ParentName="GR_HumanImplantBase">
+		<defName>Jedi515_HorsePP</defName>
+		<label>human implant: equine "love enhancer"</label>
+		<description>Equine "love enhancer". You know what's up, don't you?</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>4</Mass>
+		</statBases>
+	</ThingDef>
+</Defs>

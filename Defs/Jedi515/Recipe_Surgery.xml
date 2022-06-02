@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<RecipeDef ParentName="SurgeryFlesh">
+		<defName>Jedi515_InstallSpiderLimbs</defName>
+		<label>&lt;color=#E89D1B&gt;install spider limbs&lt;/color&gt;</label>
+		<description>Installs spider limbs.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing spider limbs.</jobString>
+		<workAmount>1500</workAmount>
+		<recipeUsers>
+			<li>Human</li>
+		</recipeUsers>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>3</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Jedi515_SpiderLimbs</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>Jedi515_SpiderLimbs</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Torso</li> 
+		</appliedOnFixedBodyParts>
+		<addsHediff>Jedi515_SpiderLimbs</addsHediff>
+	</RecipeDef>
+	<RecipeDef ParentName="SurgeryRemoveImplantBase">
+		<defName>Jedi515_RemoveSpiderLimbs</defName>
+		<label>remove spider limbs</label>
+		<description>Remove spider limbs.</description>
+		<descriptionHyperlinks>
+			<ThingDef>Jedi515_SpiderLimbs</ThingDef>
+			<HediffDef>Jedi515_SpiderLimbs</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Removing spider limbs.</jobString>
+		<removesHediff>Jedi515_SpiderLimbs</removesHediff>
+	</RecipeDef>
+	<RecipeDef ParentName="SurgeryFlesh">
+		<defName>Jedi515_InstallSpinneret</defName>
+		<label>&lt;color=#E89D1B&gt;install spinneret&lt;/color&gt;</label>
+		<description>Installs spinneret.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing spinneret.</jobString>
+		<workAmount>1500</workAmount>
+		<recipeUsers>
+			<li>Human</li>
+		</recipeUsers>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>3</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Jedi515_Spinneret</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>Jedi515_Spinneret</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Pelvis</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>Jedi515_Spinneret</addsHediff>
+	</RecipeDef>
+	<RecipeDef ParentName="SurgeryRemoveImplantBase">
+		<defName>Jedi515_RemoveSpinneret</defName>
+		<label>remove spinneret.</label>
+		<description>Remove spinneret.</description>
+		<descriptionHyperlinks>
+			<ThingDef>Jedi515_Spinneret</ThingDef>
+			<HediffDef>Jedi515_Spinneret</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Removing spinneret.</jobString>
+		<removesHediff>Jedi515_Spinneret</removesHediff>
+	</RecipeDef>
+	
+		<RecipeDef ParentName="SurgeryFlesh">
+		<defName>Jedi515_InstallHorsePP</defName>
+		<label>&lt;color=#E89D1B&gt;install equine "love enhancer"&lt;/color&gt;</label>
+		<description>Installs equine "love enhancer".</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing equine "love enhancer".</jobString>
+		<workAmount>1500</workAmount>
+		<recipeUsers>
+			<li>Human</li>
+		</recipeUsers>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>3</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Jedi515_HorsePP</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>Jedi515_HorsePP</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Pelvis</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>Jedi515_HorsePP</addsHediff>
+	</RecipeDef>
+	<RecipeDef ParentName="SurgeryRemoveImplantBase">
+		<defName>Jedi515_RemoveHorsePP</defName>
+		<label>remove equine "love enhancer".</label>
+		<description>Remove equine "love enhancer".</description>
+		<descriptionHyperlinks>
+			<ThingDef>Jedi515_HorsePP</ThingDef>
+			<HediffDef>Jedi515_HorsePP</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Removing equine "love enhancer".</jobString>
+		<removesHediff>Jedi515_HorsePP</removesHediff>
+	</RecipeDef>
+</Defs>
