@@ -15,3 +15,12 @@ D:\Games\RimWorld\Mods\Vanilla_Cooking_Tab\Source\Assemblies\net4.7.2\EquineLE_P
 D:\Games\RimWorld\Mods\Vanilla_Cooking_Tab\Source\Assemblies\net4.7.2\EquineLE_Patch.pdb
 D:\Games\RimWorld\Mods\Vanilla_Cooking_Tab\Assemblies\net4.7.2\EquineLE_Patch.dll
 D:\Games\RimWorld\Mods\Vanilla_Cooking_Tab\Assemblies\net4.7.2\EquineLE_Patch.pdb
+D:\Games\RimWorld\Mods\Jedi515_VGE_Implants\Assemblies\net4.7.2\EquineLE_Patch.dll
+D:\Games\RimWorld\Mods\Jedi515_VGE_Implants\Assemblies\net4.7.2\EquineLE_Patch.pdb
+D:\Games\RimWorld\Mods\Jedi515_VGE_Implants\Source\EquineLE_Patch\EquineLE_Patch\obj\Debug\net4.7.2\EquineLE_Patch.csproj.AssemblyReference.cache
+D:\Games\RimWorld\Mods\Jedi515_VGE_Implants\Source\EquineLE_Patch\EquineLE_Patch\obj\Debug\net4.7.2\EquineLE_Patch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\RimWorld\Mods\Jedi515_VGE_Implants\Source\EquineLE_Patch\EquineLE_Patch\obj\Debug\net4.7.2\EquineLE_Patch.AssemblyInfoInputs.cache
+D:\Games\RimWorld\Mods\Jedi515_VGE_Implants\Source\EquineLE_Patch\EquineLE_Patch\obj\Debug\net4.7.2\EquineLE_Patch.AssemblyInfo.cs
+D:\Games\RimWorld\Mods\Jedi515_VGE_Implants\Source\EquineLE_Patch\EquineLE_Patch\obj\Debug\net4.7.2\EquineLE_Patch.csproj.CoreCompileInputs.cache
+D:\Games\RimWorld\Mods\Jedi515_VGE_Implants\Source\EquineLE_Patch\EquineLE_Patch\obj\Debug\net4.7.2\EquineLE_Patch.dll
+D:\Games\RimWorld\Mods\Jedi515_VGE_Implants\Source\EquineLE_Patch\EquineLE_Patch\obj\Debug\net4.7.2\EquineLE_Patch.pdb

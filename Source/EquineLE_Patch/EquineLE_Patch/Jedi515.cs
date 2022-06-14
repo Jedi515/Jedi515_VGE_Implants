@@ -66,7 +66,6 @@ namespace Jedi515
                     //h.parent
                 }
             }
-            Log.Message("Horse LE final offset: " + multiplier);
             thought_Memory.moodPowerFactor += multiplier;
             return thought_Memory;
         }
